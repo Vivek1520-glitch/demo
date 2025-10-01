@@ -3,3 +3,7 @@ this is file2==vivek
 this is file2===om
 
 This is the updated content in file2.txt
+
+
+This is the updated content in file2.txt
+Greeting: Hello from the feature branch!
